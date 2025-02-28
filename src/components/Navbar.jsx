@@ -4,7 +4,7 @@ function Navbar() {
   return (
     <div className='sticky top-0'>
       <header className='border border-black'>
-        <nav className='flex justify-between px-28 items-center p-2 bg-white'>
+        <nav className='flex justify-between px-24 items-center p-2 bg-white'>
           <div><h2 className='font-bold text-[25px]'>LOGO</h2></div>
            <ul className='flex justify-between border-none border-black w-[450px] font-semibold text-black'>
               <li><a>Home</a></li>
