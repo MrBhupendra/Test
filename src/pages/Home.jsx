@@ -5,17 +5,17 @@ import { Icon } from "@iconify/react";
 function Home() {
   return (
     <div className='border border-black px-28 flex'>
-      <div>
-        <div className='text-center mt-15 flex justify-center gap-1 '>
+      <div className='border border-black'>
+        <div className=' mt-12 flex  gap-1 '>
             <h1 className='font-bold border-t-3 w-3  border-purple-600 mt-2.5  '></h1>
-            <h3 className='font-semibold text-[22px]'>Hello</h3>
+            <h3 className='font-bold text-[22px]'>Hello</h3>
         </div>
 
-        <div className=' font-semibold text-5xl flex justify-center gap-1.5'>
+        <div className=' font-bold text-5xl flex  gap-1.5 mt-2'>
           <h1>I'm </h1><h1 className='text-purple-500 border-b-4 p-1 border-purple-500'>Bhupendra,</h1>
         </div>
 
-        <div className=' font-semibold text-5xl flex justify-center gap-1.5 mt-2'>
+        <div className=' font-bold text-5xl flex  gap-1.5 mt-2'>
           <h1>Full Stack</h1><h1>Developer</h1>
         </div>
         </div>
