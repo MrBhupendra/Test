@@ -15,7 +15,7 @@ function Skill() {
         <div className='shadow-md flex-col  items-center flex px-4  py-10 rounded-sm bg-white hover:bg-purple-500 hover:text-white'>
            <Icon className='text-4xl ' icon="simple-icons:nextui"></Icon>
            <h1 className='font-semibold text-3xl mt-3.5'>UI/UX Desgin</h1>
-           <p className='font-medium text-slate-500 text-[13px] mt-3.5 text-center '>I design intuitive, user-friendly, and visually engaging interfaces that enhance user experiences, improve accessibility, and drive engagement by blending creativity, functionality, and usability to create seamless digital interactions that delight users</p>
+           <p className='font-medium text-black text-[13px] mt-3.5 text-center '>I design intuitive, user-friendly, and visually engaging interfaces that enhance user experiences, improve accessibility, and drive engagement by blending creativity, functionality, and usability to create seamless digital interactions that delight users</p>
            <button className='font-medium text-white bg-black px-18 p-1.5 text-[14px] rounded-sm mt-6'>See More</button>
         </div>
 
