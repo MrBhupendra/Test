@@ -3,7 +3,7 @@ import { Icon } from "@iconify/react";
 
 function About() {
   return (
-    <div className=' flex px-24  py-16 max-sm:px-0 max-sm:flex-col max-sm:py-20 '>
+    <div className=' flex px-24  py-16 max-sm:px-0 max-sm:flex-col max-sm:py-20 bg-purple-500 '>
         <div className=' w-full  '>
             <img className='object-cover h-full max-sm:h-[50vh]' src='https://images.pexels.com/photos/574071/pexels-photo-574071.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'></img>
            

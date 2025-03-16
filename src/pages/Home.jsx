@@ -28,7 +28,7 @@ function Home() {
 
           <a><button className=' px-5 py-3  rounded-3xl  bg-purple-500 text-white font-medium flex items-center gap-2'>Portfolio<span className='text-2xl  rounded-2xl bg-black'><Icon icon="mdi-light:arrow-right"/></span></button></a>
 
-          <a><button className=' px-10 py-3  rounded-3xl text-black font-medium '>Hire Me</button></a>
+          <a><button className=' px-10 py-3 border border-black rounded-3xl text-black font-medium '>Hire Me</button></a>
 
         </div>
 
