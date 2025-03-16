@@ -34,10 +34,10 @@ function Home() {
 
         </div>
 
-        <div className='flex justify-center items-center  px-3 '>
+        <div className='flex justify-center items-center  px-2 '>
           <div className="">
           <img src='https://img.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg?t=st=1742128977~exp=1742132577~hmac=c7ee07ce939c69506488b8d7506e80fadccf92bb5392bc4441605d36ffaaa1a6&w=996'
-          className='h-[60vh]'></img>
+          className='h-[60vh] object-cover'></img>
          
           </div>
         </div>
