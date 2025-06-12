@@ -5,8 +5,8 @@ function Footer() {
     <div className='px-20 w-full bg-black max-sm:flex max-sm:flex-col max-sm:px-5 mt-'>
       <div className='p-10 text-white flex gap-6 border-b border-slate-500 max-sm:flex max-sm:flex-col'>
 
-        <div className='left w-full '>
-        <img src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG6.png" alt="" srcset="" className='object-cover h-55 w-55 border-b-[7px] border-blue-600 ' />
+        <div className='left w-full      '>
+        <img src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG6.png" alt="" srcset="" className='object-cover h-35 w-35 border-b-[5px] border-blue-600 ' />
         </div>
 
         <div className='right w-full  flex flex-col gap-11 '>
