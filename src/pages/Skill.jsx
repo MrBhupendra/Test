@@ -7,6 +7,9 @@ function Skill() {
     <div className='px-24 py-6 bg-sky-100 max-sm:px-0'>
       <div className='skill  py-5 px-8 flex flex-col justify-center items-center max-sm:mt-3 '>
         <h1 className='font-bold text-3xl max-sm:text-4xl'>Our Technology</h1>
+         <div className="border border-slate-400 w-32 flex justify-center">
+          
+        </div>
         <p className='font-medium text-slate-500 w-[50%] text-[14px] mt-1 text-center max-sm:w-full max-sm:text-[16px] max-sm:mt-4'>I specialize in front-end and back-end technologies, including React, Node.js, Express, and databases, to build efficient, scalable web applications.</p>
 
       </div>
