@@ -1,0 +1,53 @@
+.html{
+    width: 90%;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+
+    padding: 5px 0px ;
+    background-color:rgb(218, 222, 223);
+    animation: javascript 1.5s;
+}
+@keyframes javascript {
+    0%{
+        width: 0%;
+    }
+    100%{
+        width: 90%;
+    }
+}
+
+.Tailwind{
+    width: 90%;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+
+    padding: 5px 0px ;
+    background-color:rgb(218, 222, 223);
+    animation: Tailwind 2s;
+}
+@keyframes Tailwind {
+    0%{
+        width: 0%;
+    }
+    100%{
+        width: 90%;
+    }
+}
+
+.Javascript{
+    width: 80%;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+
+    padding: 5px 0px;
+    background-color: rgb(218, 222, 223);
+    animation: Tailwind 2s;
+}
+@keyframes Tailwind {
+    0%{
+        width: 0;
+    }
+    100%{
+        width: 80%;
+    }
+}
